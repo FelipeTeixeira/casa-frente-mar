@@ -1,0 +1,62 @@
+[
+  {
+    "icon": "Waves",
+    "title": "Piscina com cascata",
+    "description": "Piscina ampla com cascata e aquecimento solar, pronta para uso em qualquer época do ano."
+  },
+  {
+    "icon": "Utensils",
+    "title": "Área gourmet completa",
+    "description": "Espaço externo coberto com bancada, mesa grande e churrasqueira, ideal para reunir todo mundo."
+  },
+  {
+    "icon": "Flame",
+    "title": "Churrasqueira",
+    "description": "Churrasqueira de alvenaria pronta para o clássico churrasco em família."
+  },
+  {
+    "icon": "Wifi",
+    "title": "Wi-Fi de alta velocidade",
+    "description": "Internet rápida em toda a casa, ótima para quem precisa ficar conectado mesmo de férias."
+  },
+  {
+    "icon": "Tv",
+    "title": "Smart TV com Netflix",
+    "description": "Sala de estar confortável com Smart TV e Netflix para os momentos de descanso."
+  },
+  {
+    "icon": "ChefHat",
+    "title": "Cozinha completa",
+    "description": "Cozinha equipada com geladeira, fogão, micro-ondas e utensílios para preparar qualquer refeição."
+  },
+  {
+    "icon": "Car",
+    "title": "Garagem para 8 carros",
+    "description": "Estacionamento amplo e seguro dentro do próprio imóvel, sem dor de cabeça com vaga na rua."
+  },
+  {
+    "icon": "Snowflake",
+    "title": "Ar-condicionado",
+    "description": "Ar-condicionado na suíte master e ventiladores nos demais ambientes para dias mais quentes."
+  },
+  {
+    "icon": "BedDouble",
+    "title": "Quartos confortáveis",
+    "description": "5 quartos com 18 camas entre casal, solteiro e beliche, acomodando até 21 pessoas."
+  },
+  {
+    "icon": "PawPrint",
+    "title": "Pet friendly",
+    "description": "Seu pet é bem-vindo, com aviso prévio combinado antes do check-in."
+  },
+  {
+    "icon": "KeyRound",
+    "title": "Check-in inteligente",
+    "description": "Fechadura eletrônica para um check-in prático, mesmo se você chegar mais tarde."
+  },
+  {
+    "icon": "Users",
+    "title": "Ideal para famílias",
+    "description": "Espaço pensado para grupos grandes e famílias com crianças aproveitarem com conforto."
+  }
+]

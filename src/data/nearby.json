@@ -1,0 +1,8 @@
+[
+  { "category": "Praia", "icon": "Waves", "name": "Praia do Porto Novo", "distance": "5 min de carro" },
+  { "category": "Praia", "icon": "Waves", "name": "Praia Martim de Sá", "distance": "10 min de carro" },
+  { "category": "Mercado", "icon": "ShoppingCart", "name": "Mercado do bairro", "distance": "1 min a pé" },
+  { "category": "Padaria", "icon": "Croissant", "name": "Padaria e pizzaria local", "distance": "1 min a pé" },
+  { "category": "Farmácia", "icon": "Pill", "name": "Farmácia mais próxima", "distance": "5 min a pé" },
+  { "category": "Restaurante", "icon": "UtensilsCrossed", "name": "Restaurantes e centro da cidade", "distance": "10 min de carro" }
+]

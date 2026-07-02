@@ -1,0 +1,19 @@
+{
+  "name": "Casa Frente Mar - Caraguatatuba",
+  "short_name": "Casa Frente Mar",
+  "description": "Casa de temporada com piscina em Porto Novo, Caraguatatuba. Reserve direto pelo WhatsApp.",
+  "start_url": "/casa-frente-mar/",
+  "scope": "/casa-frente-mar/",
+  "display": "standalone",
+  "background_color": "#fdfbf6",
+  "theme_color": "#123a48",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/casa-frente-mar/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

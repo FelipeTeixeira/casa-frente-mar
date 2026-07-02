@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "Clock",
+    "title": "Atendimento rápido",
+    "description": "Respondo mensagens rapidamente, todos os dias — sua dúvida não fica esperando."
+  },
+  {
+    "icon": "Sparkles",
+    "title": "Casa muito bem cuidada",
+    "description": "Manutenção constante em cada detalhe, da piscina aos acabamentos internos."
+  },
+  {
+    "icon": "MapPin",
+    "title": "Excelente localização",
+    "description": "No Porto Novo, a poucos minutos a pé de mercado, padaria e restaurantes, e perto da praia."
+  },
+  {
+    "icon": "ShieldCheck",
+    "title": "Limpeza impecável",
+    "description": "Higienização completa antes de cada estadia, com atenção especial à área da piscina e cozinha."
+  },
+  {
+    "icon": "Star",
+    "title": "Ótimas avaliações",
+    "description": "Nota 4.97 de 5 em dezenas de avaliações de hóspedes reais."
+  },
+  {
+    "icon": "Home",
+    "title": "Ambiente familiar",
+    "description": "Uma casa de verdade, tratada com o mesmo cuidado que eu teria com a minha própria família."
+  }
+]

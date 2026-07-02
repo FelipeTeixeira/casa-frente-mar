@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://felipeteixeira.github.io/casa-frente-mar/sitemap.xml
