@@ -178,7 +178,7 @@ shot on 50mm lens, shallow depth of field
 | Varanda              | `varanda-01.svg` → `varanda-01.jpg` |
 | Pôr do sol           | `entorno-01.svg` → `entorno-01.jpg` |
 | Praia próxima        | `entorno-02.svg` → `entorno-02.jpg` |
-| Capa do site (Hero)  | `hero.svg` → `hero.jpg` |
+| Capa do site (Hero)  | ✅ já substituído por foto real (`hero.jpg`) |
 
 > Dica: se trocar a extensão (de `.svg` para `.jpg`), atualize também o nome do arquivo
 > correspondente em `src/data/gallery.json` (campo `file`) e em `src/sections/Hero.tsx`,

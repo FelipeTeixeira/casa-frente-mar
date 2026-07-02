@@ -12,8 +12,8 @@ export function Hero() {
   return (
     <section id="inicio" className="relative flex min-h-screen items-center overflow-hidden">
       <img
-        src={resolveImage("hero.svg")}
-        alt="Vista da casa de temporada com piscina em Caraguatatuba"
+        src={resolveImage("hero.jpg")}
+        alt="Piscina com cascata da casa de temporada em Caraguatatuba"
         fetchPriority="high"
         className="absolute inset-0 h-full w-full object-cover"
       />
