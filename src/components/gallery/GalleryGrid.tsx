@@ -33,8 +33,8 @@ export function GalleryGrid({ images, categories }: GalleryGridProps) {
             className={clsx(
               "rounded-full px-4 py-2 text-sm font-medium transition-colors",
               active === cat.id
-                ? "bg-ocean-700 text-white"
-                : "bg-white text-graphite-600 hover:bg-sand-100",
+                ? "bg-brand-600 text-white"
+                : "bg-white text-graphite-600 hover:bg-graphite-100",
             )}
           >
             {cat.label}

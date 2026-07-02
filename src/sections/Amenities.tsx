@@ -27,7 +27,7 @@ export function Amenities() {
                 transition={{ duration: 0.5, delay: (i % 3) * 0.08 }}
                 className="group rounded-2xl border border-graphite-100 bg-white p-6 shadow-card transition-shadow hover:shadow-soft"
               >
-                <div className="grid h-12 w-12 place-items-center rounded-xl bg-lagoon-50 text-lagoon-600 transition-colors group-hover:bg-ocean-700 group-hover:text-white">
+                <div className="grid h-12 w-12 place-items-center rounded-xl bg-brand-50 text-brand-600 transition-colors group-hover:bg-brand-600 group-hover:text-white">
                   <Icon size={22} />
                 </div>
                 <h3 className="mt-4 font-semibold text-graphite-900">{item.title}</h3>

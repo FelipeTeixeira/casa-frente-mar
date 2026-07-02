@@ -18,13 +18,13 @@ interface ButtonProps {
 
 const variantClasses: Record<Variant, string> = {
   primary:
-    "bg-ocean-700 text-white hover:bg-ocean-800 shadow-soft",
+    "bg-brand-600 text-white hover:bg-brand-700 shadow-soft",
   whatsapp:
     "bg-whatsapp text-white hover:bg-whatsapp-dark shadow-soft",
   outline:
     "bg-white/10 text-white border border-white/70 hover:bg-white/20 backdrop-blur-sm",
   ghost:
-    "bg-transparent text-ocean-800 border border-ocean-200 hover:bg-ocean-50",
+    "bg-transparent text-brand-700 border border-brand-200 hover:bg-brand-50",
 };
 
 const sizeClasses: Record<Size, string> = {

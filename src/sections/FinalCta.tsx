@@ -17,7 +17,7 @@ export function FinalCta() {
         loading="lazy"
         className="absolute inset-0 h-full w-full object-cover"
       />
-      <div className="absolute inset-0 bg-ocean-900/80" />
+      <div className="absolute inset-0 bg-brand-900/85" />
 
       <Container className="relative z-10 text-center">
         <motion.div

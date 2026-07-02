@@ -37,7 +37,7 @@ export function Navbar() {
           href="#inicio"
           className={clsx(
             "text-lg font-semibold tracking-tight transition-colors",
-            solid ? "text-ocean-800" : "text-white",
+            solid ? "text-brand-700" : "text-white",
           )}
         >
           Casa Frente Mar
@@ -49,7 +49,7 @@ export function Navbar() {
               key={link.href}
               href={link.href}
               className={clsx(
-                "text-sm font-medium transition-colors hover:text-lagoon-500",
+                "text-sm font-medium transition-colors hover:text-brand-600",
                 solid ? "text-graphite-700" : "text-white/90",
               )}
             >
@@ -70,7 +70,7 @@ export function Navbar() {
           onClick={() => setOpen((v) => !v)}
           className={clsx(
             "grid h-10 w-10 place-items-center rounded-full transition-colors lg:hidden",
-            solid ? "text-ocean-800" : "text-white",
+            solid ? "text-brand-700" : "text-white",
           )}
         >
           {open ? <X size={24} /> : <Menu size={24} />}
@@ -91,7 +91,7 @@ export function Navbar() {
                   key={link.href}
                   href={link.href}
                   onClick={() => setOpen(false)}
-                  className="rounded-lg px-3 py-3 text-base font-medium text-graphite-700 hover:bg-sand-100"
+                  className="rounded-lg px-3 py-3 text-base font-medium text-graphite-700 hover:bg-graphite-100"
                 >
                   {link.label}
                 </a>

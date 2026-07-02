@@ -9,7 +9,7 @@ const images = galleryData.images as GalleryImage[];
 
 export function Gallery() {
   return (
-    <section id="galeria" className="bg-sand-100/60 py-24 sm:py-32">
+    <section id="galeria" className="bg-surface py-24 sm:py-32">
       <Container>
         <SectionHeading
           eyebrow="Galeria"

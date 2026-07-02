@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
   <defs>
     <linearGradient id="g9" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#123a48"/>
-      <stop offset="100%" stop-color="#22a19d"/>
+      <stop offset="0%" stop-color="#28477c"/>
+      <stop offset="100%" stop-color="#4a7bc8"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="900" fill="url(#g9)"/>
@@ -10,7 +10,7 @@
   <path d="M0,810 C300,770 900,850 1200,810 L1200,900 L0,900 Z" fill="#ffffff" opacity="0.08"/>
   <circle cx="1020" cy="162" r="81" fill="#ffffff" opacity="0.08"/>
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-        font-family="Georgia, 'Times New Roman', serif" font-size="54"
+        font-family="Arial, sans-serif" font-weight="600" font-size="54"
         fill="#ffffff" opacity="0.92" letter-spacing="1">Banheiro</text>
   <text x="50%" y="58%" text-anchor="middle" dominant-baseline="middle"
         font-family="Arial, sans-serif" font-size="20"

@@ -7,7 +7,7 @@ import type { Differential } from "@/types";
 
 export function Differentials() {
   return (
-    <section className="bg-ocean-800 py-24 text-white sm:py-32">
+    <section className="bg-brand-900 py-24 text-white sm:py-32">
       <Container>
         <SectionHeading
           eyebrow="Por que reservar comigo"
@@ -27,7 +27,7 @@ export function Differentials() {
                 transition={{ duration: 0.5, delay: (i % 3) * 0.08 }}
                 className="flex gap-4"
               >
-                <div className="grid h-11 w-11 shrink-0 place-items-center rounded-full bg-white/10 text-lagoon-300">
+                <div className="grid h-11 w-11 shrink-0 place-items-center rounded-full bg-white/10 text-brand-200">
                   <Icon size={20} />
                 </div>
                 <div>

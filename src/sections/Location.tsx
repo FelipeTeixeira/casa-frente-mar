@@ -47,7 +47,7 @@ export function Location() {
                 const Icon = getIcon(place.icon);
                 return (
                   <li key={place.name} className="flex items-center gap-4 py-3.5 first:pt-0 last:pb-0">
-                    <div className="grid h-10 w-10 shrink-0 place-items-center rounded-full bg-lagoon-50 text-lagoon-600">
+                    <div className="grid h-10 w-10 shrink-0 place-items-center rounded-full bg-brand-50 text-brand-600">
                       <Icon size={18} />
                     </div>
                     <div className="min-w-0 flex-1">

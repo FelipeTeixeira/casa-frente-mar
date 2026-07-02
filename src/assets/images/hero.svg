@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1280" viewBox="0 0 1920 1280">
   <defs>
     <linearGradient id="g0" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0c2934"/>
-      <stop offset="100%" stop-color="#1f6376"/>
+      <stop offset="0%" stop-color="#1f3759"/>
+      <stop offset="100%" stop-color="#3d6bbc"/>
     </linearGradient>
   </defs>
   <rect width="1920" height="1280" fill="url(#g0)"/>
@@ -10,7 +10,7 @@
   <path d="M0,1152 C480,1112 1440,1192 1920,1152 L1920,1280 L0,1280 Z" fill="#ffffff" opacity="0.08"/>
   <circle cx="1632" cy="230.39999999999998" r="115.19999999999999" fill="#ffffff" opacity="0.08"/>
   <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-        font-family="Georgia, 'Times New Roman', serif" font-size="77"
+        font-family="Arial, sans-serif" font-weight="600" font-size="77"
         fill="#ffffff" opacity="0.92" letter-spacing="1">Casa Frente Mar</text>
   <text x="50%" y="58%" text-anchor="middle" dominant-baseline="middle"
         font-family="Arial, sans-serif" font-size="28"

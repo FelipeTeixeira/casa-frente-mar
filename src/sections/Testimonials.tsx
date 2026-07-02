@@ -9,7 +9,7 @@ import type { Testimonial } from "@/types";
 
 export function Testimonials() {
   return (
-    <section id="avaliacoes" className="bg-sand-100/60 py-24 sm:py-32">
+    <section id="avaliacoes" className="bg-surface py-24 sm:py-32">
       <Container>
         <SectionHeading
           eyebrow="Avaliações"
@@ -34,13 +34,13 @@ export function Testimonials() {
               transition={{ duration: 0.5, delay: (i % 4) * 0.08 }}
               className="flex flex-col rounded-2xl bg-white p-6 shadow-card"
             >
-              <Quote className="text-lagoon-300" size={24} />
+              <Quote className="text-brand-200" size={24} />
               <StarRating rating={item.rating} className="mt-4" />
               <blockquote className="mt-3 flex-1 text-sm leading-relaxed text-graphite-600">
                 “{item.text}”
               </blockquote>
               <figcaption className="mt-5 flex items-center gap-3 border-t border-graphite-100 pt-4">
-                <div className="grid h-9 w-9 place-items-center rounded-full bg-ocean-100 text-sm font-semibold text-ocean-700">
+                <div className="grid h-9 w-9 place-items-center rounded-full bg-brand-50 text-sm font-semibold text-brand-600">
                   {item.name.charAt(0)}
                 </div>
                 <div>

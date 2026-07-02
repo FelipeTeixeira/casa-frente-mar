@@ -31,7 +31,7 @@ export function SectionHeading({
         <span
           className={clsx(
             "mb-3 inline-block text-xs font-semibold uppercase tracking-[0.2em]",
-            tone === "light" ? "text-lagoon-600" : "text-lagoon-300",
+            tone === "light" ? "text-brand-600" : "text-brand-300",
           )}
         >
           {eyebrow}

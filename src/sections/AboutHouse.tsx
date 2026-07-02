@@ -27,7 +27,7 @@ export function AboutHouse() {
             src={resolveImage("piscina-01.svg")}
             alt="Piscina com cascata da casa"
             loading="lazy"
-            className="absolute -bottom-8 -right-6 aspect-video w-2/3 rounded-2xl border-4 border-sand-50 object-cover shadow-soft sm:-right-10"
+            className="absolute -bottom-8 -right-6 aspect-video w-2/3 rounded-2xl border-4 border-white object-cover shadow-soft sm:-right-10"
           />
         </motion.div>
 
@@ -37,7 +37,7 @@ export function AboutHouse() {
           viewport={{ once: true, margin: "-100px" }}
           transition={{ duration: 0.7, ease: "easeOut" }}
         >
-          <span className="mb-3 inline-block text-xs font-semibold uppercase tracking-[0.2em] text-lagoon-600">
+          <span className="mb-3 inline-block text-xs font-semibold uppercase tracking-[0.2em] text-brand-600">
             {about.eyebrow}
           </span>
           <h2 className="text-balance text-3xl font-semibold text-graphite-900 sm:text-4xl">
@@ -58,9 +58,9 @@ export function AboutHouse() {
               return (
                 <li
                   key={item.text}
-                  className="flex items-center gap-3 rounded-xl bg-sand-100/70 px-4 py-3"
+                  className="flex items-center gap-3 rounded-xl bg-surface px-4 py-3"
                 >
-                  <Icon size={20} className="shrink-0 text-ocean-700" />
+                  <Icon size={20} className="shrink-0 text-brand-600" />
                   <span className="text-sm font-medium text-graphite-700">{item.text}</span>
                 </li>
               );

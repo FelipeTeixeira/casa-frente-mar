@@ -21,7 +21,7 @@ export function Accordion({ items }: { items: FaqItem[] }) {
               <span className="font-medium text-graphite-900">{item.question}</span>
               <ChevronDown
                 size={20}
-                className={`shrink-0 text-ocean-600 transition-transform duration-300 ${
+                className={`shrink-0 text-brand-600 transition-transform duration-300 ${
                   isOpen ? "rotate-180" : ""
                 }`}
               />
