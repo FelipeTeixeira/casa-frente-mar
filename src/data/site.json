@@ -14,30 +14,30 @@
   "hero": {
     "eyebrow": "Porto Novo · Caraguatatuba, SP",
     "title": "Sua próxima temporada começa nesta casa",
-    "subtitle": "Piscina com cascata aquecida, área gourmet completa e espaço para até 21 pessoas, a poucos minutos da praia. Reserve direto com o anfitrião, sem intermediários.",
+    "subtitle": "Piscina com cascata, área gourmet completa e espaço para até 21 pessoas, em frente ao mar — é só atravessar a rua para chegar na praia. Reserve direto com o anfitrião, sem intermediários.",
     "primaryCta": "Reservar pelo WhatsApp",
     "secondaryCta": "Ver fotos",
     "stats": [
       { "label": "Avaliação", "value": "4.97/5" },
       { "label": "Hóspedes", "value": "até 21" },
       { "label": "Quartos", "value": "5" },
-      { "label": "Vagas de garagem", "value": "8" }
+      { "label": "Vagas de garagem", "value": "9" }
     ]
   },
   "about": {
     "eyebrow": "A Casa",
     "title": "Uma casa pensada para receber bem",
     "paragraphs": [
-      "A casa fica no bairro Porto Novo, em Caraguatatuba, a poucos minutos a pé de mercado, padaria e restaurantes — e perto o suficiente do mar para dar aquela escapada rápida até a praia.",
+      "A casa fica no bairro Porto Novo, em Caraguatatuba, em frente ao mar — é só atravessar a rua para chegar na Praia das Palmeiras — e a poucos minutos a pé de mercado, padaria e restaurantes.",
       "São 5 quartos e 4 banheiros distribuídos com conforto para até 21 pessoas, com camas de casal, solteiro e beliches, ideal para reunir a família inteira ou um grupo grande de amigos sem ninguém apertado.",
-      "A área externa é o coração da casa: piscina com cascata e aquecimento solar, espaço gourmet com churrasqueira e estacionamento para até 8 carros. Dentro, sala confortável com Smart TV e Netflix, cozinha completa e Wi-Fi de alta velocidade.",
-      "Cuido pessoalmente de cada detalhe da casa e de cada reserva — da limpeza ao check-in, para que sua estadia comece bem antes de você chegar."
+      "A área externa é o coração da casa: piscina com cascata, espaço gourmet com churrasqueira e 9 vagas de garagem (1 coberta e 8 descobertas). Dentro, sala confortável com Smart TV, cozinha completa e Wi-Fi de alta velocidade.",
+      "Cuido pessoalmente de cada detalhe da casa e de cada reserva — da organização ao check-in, para que sua estadia comece bem antes de você chegar."
     ],
     "highlights": [
-      { "icon": "Waves", "text": "Piscina com cascata e aquecimento solar" },
+      { "icon": "Waves", "text": "Piscina com cascata" },
       { "icon": "Users", "text": "Conforto para até 21 pessoas" },
       { "icon": "BedDouble", "text": "5 quartos · 18 camas" },
-      { "icon": "Car", "text": "Estacionamento para 8 carros" }
+      { "icon": "Car", "text": "9 vagas de garagem" }
     ]
   },
   "reveillon": {

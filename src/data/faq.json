@@ -9,7 +9,7 @@
   },
   {
     "question": "É permitido levar animais de estimação?",
-    "answer": "Sim, a casa é pet friendly. Só pedimos que você avise com antecedência para organizarmos tudo antes da sua chegada."
+    "answer": "Sim, a casa é pet friendly, mediante uma taxa de R$ 100. Só pedimos que você avise com antecedência para organizarmos tudo antes da sua chegada."
   },
   {
     "question": "Como funciona o pagamento da reserva?",
@@ -17,11 +17,15 @@
   },
   {
     "question": "A casa tem vaga de garagem?",
-    "answer": "Sim, o imóvel conta com estacionamento próprio para até 8 carros, sem necessidade de deixar veículo na rua."
+    "answer": "Sim, o imóvel conta com 9 vagas próprias (1 coberta e 8 descobertas), sem necessidade de deixar veículo na rua."
   },
   {
     "question": "Roupas de cama e banho estão incluídas?",
-    "answer": "Sim, a casa é entregue limpa e organizada, pronta para receber os hóspedes."
+    "answer": "Não fornecemos roupas de cama e banho. A casa é entregue limpa e organizada, mas recomendamos trazer seus próprios lençóis e toalhas."
+  },
+  {
+    "question": "As tomadas da casa são compatíveis com meus aparelhos?",
+    "answer": "Todas as tomadas da casa são 220V. Se você trouxer algum aparelho de 110V, é necessário providenciar um transformador."
   },
   {
     "question": "Posso levar visitantes durante a estadia?",

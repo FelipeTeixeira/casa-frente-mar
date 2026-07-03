@@ -2,7 +2,7 @@
   {
     "icon": "Waves",
     "title": "Piscina com cascata",
-    "description": "Piscina ampla com cascata e aquecimento solar, pronta para uso em qualquer época do ano."
+    "description": "Piscina ampla com cascata. O aquecimento solar da água depende do sol e da temperatura do dia."
   },
   {
     "icon": "Utensils",
@@ -21,8 +21,8 @@
   },
   {
     "icon": "Tv",
-    "title": "Smart TV com Netflix",
-    "description": "Sala de estar confortável com Smart TV e Netflix para os momentos de descanso."
+    "title": "Smart TV",
+    "description": "Sala de estar confortável com Smart TV para os momentos de descanso."
   },
   {
     "icon": "ChefHat",
@@ -31,13 +31,13 @@
   },
   {
     "icon": "Car",
-    "title": "Garagem para 8 carros",
-    "description": "Estacionamento amplo e seguro dentro do próprio imóvel, sem dor de cabeça com vaga na rua."
+    "title": "9 vagas de garagem",
+    "description": "1 vaga coberta e mais 8 vagas descobertas dentro do próprio imóvel, sem dor de cabeça com vaga na rua."
   },
   {
     "icon": "Snowflake",
     "title": "Ar-condicionado",
-    "description": "Ar-condicionado na suíte master e ventiladores nos demais ambientes para dias mais quentes."
+    "description": "Ar-condicionado na suíte master e no segundo quarto principal, ventiladores nos demais ambientes."
   },
   {
     "icon": "BedDouble",
@@ -47,7 +47,7 @@
   {
     "icon": "PawPrint",
     "title": "Pet friendly",
-    "description": "Seu pet é bem-vindo, com aviso prévio combinado antes do check-in."
+    "description": "Seu pet é bem-vindo mediante taxa de R$ 100 e aviso prévio combinado antes do check-in."
   },
   {
     "icon": "KeyRound",
