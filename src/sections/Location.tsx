@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Navigation } from "lucide-react";
+import { Navigation, MapPin } from "lucide-react";
 import { Container } from "@/components/ui/Container";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { Button } from "@/components/ui/Button";
@@ -18,7 +18,12 @@ export function Location() {
           subtitle="Perto da praia e de tudo o que você precisa durante a estadia."
         />
 
-        <div className="mt-14 grid gap-8 lg:grid-cols-5">
+        <p className="mx-auto mt-4 flex w-fit items-center gap-2 text-sm text-graphite-600">
+          <MapPin size={16} className="shrink-0 text-brand-600" />
+          {siteConfig.location.address}
+        </p>
+
+        <div className="mt-10 grid gap-8 lg:grid-cols-5">
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}

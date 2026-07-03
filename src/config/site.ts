@@ -43,14 +43,16 @@ export const siteConfig = {
     email: "",
   },
 
-  /** Localização aproximada (usada na seção de Localização e no SEO local) */
+  /** Localização (usada na seção de Localização e no SEO local) */
   location: {
     neighborhood: "Porto Novo",
     city: "Caraguatatuba",
     state: "SP",
+    address: "Av. Geraldo Nogueira da Silva, 1226 - Porto Novo, Caraguatatuba - SP",
     mapsEmbedUrl:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14685.0!2d-45.4525!3d-23.6208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjPCsDM3JzE0LjkiUyA0NcKwMjcnMDkuMCJX!5e0!3m2!1spt-BR!2sbr!4v0",
-    mapsShareUrl: "https://maps.google.com/?q=Porto+Novo,+Caraguatatuba,+SP",
+      "https://www.google.com/maps?q=Av.+Geraldo+Nogueira+da+Silva,+1226+-+Porto+Novo,+Caraguatatuba+-+SP&output=embed",
+    mapsShareUrl:
+      "https://www.google.com/maps/search/?api=1&query=Av.+Geraldo+Nogueira+da+Silva,+1226+-+Porto+Novo,+Caraguatatuba+-+SP",
   },
 } as const;
 
