@@ -39,7 +39,7 @@ export const siteConfig = {
 
   /** Redes sociais e contato — deixe vazio ("") para ocultar o ícone correspondente */
   social: {
-    instagram: "https://instagram.com/",
+    instagram: "https://www.instagram.com/casa_frente_mar/",
     email: "",
   },
 
