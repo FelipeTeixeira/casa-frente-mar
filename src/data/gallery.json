@@ -1,7 +1,6 @@
 {
   "categories": [
     { "id": "todas", "label": "Todas" },
-    { "id": "fachada", "label": "Fachada" },
     { "id": "piscina", "label": "Piscina" },
     { "id": "area-gourmet", "label": "Área Gourmet" },
     { "id": "cozinha", "label": "Cozinha" },
