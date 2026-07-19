@@ -14,7 +14,7 @@ export function Testimonials() {
         <SectionHeading
           eyebrow="Avaliações"
           title="O que dizem quem já ficou hospedado"
-          subtitle="Depoimentos de exemplo — em breve substituídos pelas avaliações reais dos hóspedes."
+          subtitle="Avaliações reais de quem já ficou hospedado na casa."
         />
 
         <div className="mx-auto mt-6 flex w-fit items-center gap-2">
