@@ -14,6 +14,7 @@
     { "id": "piscina-01", "file": "hero.jpg", "alt": "Piscina com cascata e área de estar", "category": "piscina", "featured": true },
     { "id": "piscina-02", "file": "piscina-02.avif", "alt": "Vista lateral da piscina com deck de madeira", "category": "piscina" },
     { "id": "area-gourmet-01", "file": "area-gourmet.avif", "alt": "Área gourmet com churrasqueira e mesa grande", "category": "area-gourmet", "featured": true },
+    { "id": "area-gourmet-02", "file": "area-gourmet-02.avif", "alt": "Vista adicional da área gourmet", "category": "area-gourmet" },
     { "id": "cozinha-01", "file": "cozinha-completa.avif", "alt": "Cozinha completa e equipada", "category": "cozinha" },
     { "id": "sala-01", "file": "sala-01.svg", "alt": "Sala de estar com Smart TV", "category": "sala" },
     { "id": "quarto-01", "file": "quarto-01.avif", "alt": "Quarto de casal confortável", "category": "quartos" },
