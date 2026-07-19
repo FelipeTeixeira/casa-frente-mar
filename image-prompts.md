@@ -166,7 +166,7 @@ shot on 50mm lens, shallow depth of field
 
 | Prompt              | Arquivo em `src/assets/images/` |
 | -------------------- | -------------------------------- |
-| Fachada              | `fachada-01.svg` → `fachada-01.jpg` |
+| Fachada              | ⬜ pendente — enquanto isso a seção "A Casa" usa a foto do pôr do sol |
 | Piscina (principal)  | `piscina-01.svg` → `piscina-01.jpg` |
 | Piscina (deck)       | `piscina-02.svg` → `piscina-02.jpg` |
 | Área gourmet         | `area-gourmet-01.svg` → `area-gourmet-01.jpg` |
@@ -176,7 +176,7 @@ shot on 50mm lens, shallow depth of field
 | Quarto com beliches  | ✅ já substituído por foto real (`quarto-02.avif`) |
 | Banheiro             | `banheiro-01.svg` → `banheiro-01.jpg` |
 | Varanda              | `varanda-01.svg` → `varanda-01.jpg` |
-| Pôr do sol           | `entorno-01.svg` → `entorno-01.jpg` |
+| Pôr do sol           | ✅ já substituído por foto real (`por-do-sol.jpeg`) |
 | Praia próxima        | `entorno-02.svg` → `entorno-02.jpg` |
 | Capa do site (Hero)  | ✅ já substituído por foto real (`hero.jpg`) |
 

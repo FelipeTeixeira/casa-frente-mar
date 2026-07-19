@@ -22,7 +22,7 @@ export function Reveillon() {
   return (
     <section className="relative overflow-hidden bg-graphite-900 py-24 text-white sm:py-32">
       <img
-        src={resolveImage("entorno-01.svg")}
+        src={resolveImage("por-do-sol.jpeg")}
         alt="Pôr do sol na região da casa"
         loading="lazy"
         className="absolute inset-0 h-full w-full object-cover opacity-25"

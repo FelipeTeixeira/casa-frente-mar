@@ -18,8 +18,8 @@ export function AboutHouse() {
           className="relative"
         >
           <img
-            src={resolveImage("fachada-01.svg")}
-            alt="Fachada da casa de temporada"
+            src={resolveImage("por-do-sol.jpeg")}
+            alt="Pôr do sol visto da casa"
             loading="lazy"
             className="aspect-[4/5] w-full rounded-3xl object-cover shadow-soft"
           />
