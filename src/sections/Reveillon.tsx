@@ -72,7 +72,14 @@ export function Reveillon() {
             ))}
           </div>
 
-          <div className="mt-12">
+          <div className="mt-10">
+            <span className="block text-4xl font-semibold text-gold-400 sm:text-5xl">
+              {reveillon.price}
+            </span>
+            <span className="mt-1 block text-sm text-white/60">{reveillon.priceNote}</span>
+          </div>
+
+          <div className="mt-8">
             <Button
               href={buildWhatsAppLink("reveillon")}
               target="_blank"
