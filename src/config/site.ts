@@ -30,9 +30,9 @@ export const siteConfig = {
     default:
       "Olá! Vi o site da casa em Caraguatatuba e gostaria de saber mais sobre disponibilidade e valores.",
     reserva:
-      "Olá! Gostaria de reservar uma data na casa em Caraguatatuba. Pode me passar as informações de disponibilidade? 🏡",
+      "Olá! Gostaria de reservar uma data na casa em Caraguatatuba. Pode me passar as informações de disponibilidade?",
     reveillon:
-      "Olá! Tenho interesse em reservar a casa para o Réveillon. Ainda há datas disponíveis? 🎆",
+      "Olá! Tenho interesse em reservar a casa para o Réveillon. Ainda há datas disponíveis?",
     duvida:
       "Olá! Tenho uma dúvida sobre a casa em Caraguatatuba, pode me ajudar?",
   },
