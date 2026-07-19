@@ -23,6 +23,6 @@
     { "id": "banheiro-01", "file": "banheiro.avif", "alt": "Banheiro moderno e limpo", "category": "banheiros" },
     { "id": "varanda-01", "file": "varanda.avif", "alt": "Varanda com vista para a piscina", "category": "varanda" },
     { "id": "entorno-01", "file": "por-do-sol.jpeg", "alt": "Pôr do sol visto da região da casa", "category": "entorno", "featured": true },
-    { "id": "entorno-02", "file": "entorno-02.svg", "alt": "Praia próxima à casa", "category": "entorno" }
+    { "id": "entorno-02", "file": "praia.jpg", "alt": "Praia das Palmeiras, em frente à casa", "category": "entorno" }
   ]
 }

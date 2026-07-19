@@ -177,7 +177,7 @@ shot on 50mm lens, shallow depth of field
 | Banheiro             | ✅ já substituído por foto real (`banheiro.avif`) |
 | Varanda              | ✅ já substituído por foto real (`varanda.avif`) |
 | Pôr do sol           | ✅ já substituído por foto real (`por-do-sol.jpeg`) |
-| Praia próxima        | `entorno-02.svg` → `entorno-02.jpg` |
+| Praia próxima        | ✅ já substituído por foto real (`praia.jpg`) |
 | Capa do site (Hero)  | ✅ já substituído por foto real (`hero.jpg`) |
 
 > Dica: se trocar a extensão (de `.svg` para `.jpg`), atualize também o nome do arquivo
