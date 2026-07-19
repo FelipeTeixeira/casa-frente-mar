@@ -43,6 +43,9 @@ export const siteConfig = {
     email: "",
   },
 
+  /** Link do anúncio no Airbnb — reforça credibilidade (avaliações verificáveis em outra plataforma) */
+  airbnbUrl: "https://airbnb.com/h/casa-com-piscina-frente-mar",
+
   /** Localização (usada na seção de Localização e no SEO local) */
   location: {
     neighborhood: "Porto Novo",

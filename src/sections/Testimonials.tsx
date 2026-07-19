@@ -1,9 +1,10 @@
 import { motion } from "framer-motion";
-import { Quote } from "lucide-react";
+import { Quote, ExternalLink } from "lucide-react";
 import { Container } from "@/components/ui/Container";
 import { SectionHeading } from "@/components/ui/SectionHeading";
 import { StarRating } from "@/components/ui/StarRating";
 import { Badge } from "@/components/ui/Badge";
+import { siteConfig } from "@/config/site";
 import testimonials from "@/data/testimonials.json";
 import type { Testimonial } from "@/types";
 
@@ -17,11 +18,20 @@ export function Testimonials() {
           subtitle="Avaliações reais de quem já ficou hospedado na casa."
         />
 
-        <div className="mx-auto mt-6 flex w-fit items-center gap-2">
+        <div className="mx-auto mt-6 flex w-fit flex-wrap items-center justify-center gap-3">
           <Badge className="bg-white text-graphite-800 shadow-card">
             <StarRating rating={5} size={14} />
             <span>4.97 · mais de 90 avaliações</span>
           </Badge>
+
+          <a
+            href={siteConfig.airbnbUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-1.5 text-sm font-medium text-brand-600 underline-offset-4 hover:underline"
+          >
+            Ver avaliações no Airbnb <ExternalLink size={14} />
+          </a>
         </div>
 
         <div className="mt-14 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">

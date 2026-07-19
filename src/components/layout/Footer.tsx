@@ -1,4 +1,4 @@
-import { Camera, MessageCircle, MapPin } from "lucide-react";
+import { Camera, MessageCircle, MapPin, House } from "lucide-react";
 import { Container } from "@/components/ui/Container";
 import { siteConfig, buildWhatsAppLink } from "@/config/site";
 
@@ -71,6 +71,14 @@ export function Footer() {
             >
               <MapPin size={18} /> {siteConfig.location.neighborhood},{" "}
               {siteConfig.location.city}
+            </a>
+            <a
+              href={siteConfig.airbnbUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 transition-colors hover:text-white"
+            >
+              <House size={18} /> Ver no Airbnb
             </a>
           </div>
         </div>
