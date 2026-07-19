@@ -28,7 +28,7 @@ export const siteConfig = {
   /** Mensagens pré-preenchidas para diferentes CTAs do site */
   whatsappMessages: {
     default:
-      "Olá! Vi o site da casa em Caraguatatuba e gostaria de saber mais sobre disponibilidade e valores. 🏖️",
+      "Olá! Vi o site da casa em Caraguatatuba e gostaria de saber mais sobre disponibilidade e valores.",
     reserva:
       "Olá! Gostaria de reservar uma data na casa em Caraguatatuba. Pode me passar as informações de disponibilidade? 🏡",
     reveillon:
