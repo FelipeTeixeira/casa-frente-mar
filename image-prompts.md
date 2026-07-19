@@ -172,8 +172,8 @@ shot on 50mm lens, shallow depth of field
 | Área gourmet         | `area-gourmet-01.svg` → `area-gourmet-01.jpg` |
 | Cozinha              | `cozinha-01.svg` → `cozinha-01.jpg` |
 | Sala                 | `sala-01.svg` → `sala-01.jpg` |
-| Quarto de casal      | `quarto-01.svg` → `quarto-01.jpg` |
-| Quarto com beliches  | `quarto-02.svg` → `quarto-02.jpg` |
+| Quarto de casal      | ✅ já substituído por foto real (`quarto-01.avif`) |
+| Quarto com beliches  | ✅ já substituído por foto real (`quarto-02.avif`) |
 | Banheiro             | `banheiro-01.svg` → `banheiro-01.jpg` |
 | Varanda              | `varanda-01.svg` → `varanda-01.jpg` |
 | Pôr do sol           | `entorno-01.svg` → `entorno-01.jpg` |
