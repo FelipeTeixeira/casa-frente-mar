@@ -171,7 +171,7 @@ shot on 50mm lens, shallow depth of field
 | Piscina (deck)       | ✅ já substituído por foto real (`piscina-02.avif`) |
 | Área gourmet         | ✅ já substituído por foto real (`area-gourmet.avif`) |
 | Cozinha              | ✅ já substituído por foto real (`cozinha-completa.avif`) |
-| Sala                 | `sala-01.svg` → `sala-01.jpg` |
+| Sala                 | ✅ já substituído por fotos reais (`sala01.avif`, `sala-02.avif`) |
 | Quarto de casal      | ✅ já substituído por foto real (`quarto-01.avif`) |
 | Quarto com beliches  | ✅ já substituído por foto real (`quarto-02.avif`) |
 | Banheiro             | ✅ já substituído por foto real (`banheiro.avif`) |
