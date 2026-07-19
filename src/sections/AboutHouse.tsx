@@ -24,7 +24,7 @@ export function AboutHouse() {
             className="aspect-[4/5] w-full rounded-3xl object-cover shadow-soft"
           />
           <img
-            src={resolveImage("piscina-01.svg")}
+            src={resolveImage("hero.jpg")}
             alt="Piscina com cascata da casa"
             loading="lazy"
             className="absolute -bottom-8 -right-6 aspect-video w-2/3 rounded-2xl border-4 border-white object-cover shadow-soft sm:-right-10"

@@ -12,7 +12,7 @@ export function FinalCta() {
   return (
     <section id="contato" className="relative overflow-hidden py-28 sm:py-36">
       <img
-        src={resolveImage("piscina-02.svg")}
+        src={resolveImage("piscina-02.avif")}
         alt="Piscina da casa ao entardecer"
         loading="lazy"
         className="absolute inset-0 h-full w-full object-cover"

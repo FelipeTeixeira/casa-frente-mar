@@ -12,15 +12,15 @@
     { "id": "entorno", "label": "Entorno" }
   ],
   "images": [
-    { "id": "piscina-01", "file": "piscina-01.svg", "alt": "Piscina com cascata e área de estar", "category": "piscina", "featured": true },
-    { "id": "piscina-02", "file": "piscina-02.svg", "alt": "Vista lateral da piscina com deck de madeira", "category": "piscina" },
-    { "id": "area-gourmet-01", "file": "area-gourmet-01.svg", "alt": "Área gourmet com churrasqueira e mesa grande", "category": "area-gourmet", "featured": true },
-    { "id": "cozinha-01", "file": "cozinha-01.svg", "alt": "Cozinha completa e equipada", "category": "cozinha" },
+    { "id": "piscina-01", "file": "hero.jpg", "alt": "Piscina com cascata e área de estar", "category": "piscina", "featured": true },
+    { "id": "piscina-02", "file": "piscina-02.avif", "alt": "Vista lateral da piscina com deck de madeira", "category": "piscina" },
+    { "id": "area-gourmet-01", "file": "area-gourmet.avif", "alt": "Área gourmet com churrasqueira e mesa grande", "category": "area-gourmet", "featured": true },
+    { "id": "cozinha-01", "file": "cozinha-completa.avif", "alt": "Cozinha completa e equipada", "category": "cozinha" },
     { "id": "sala-01", "file": "sala-01.svg", "alt": "Sala de estar com Smart TV", "category": "sala" },
     { "id": "quarto-01", "file": "quarto-01.avif", "alt": "Quarto de casal confortável", "category": "quartos" },
     { "id": "quarto-02", "file": "quarto-02.avif", "alt": "Quarto com beliches para a criançada", "category": "quartos" },
-    { "id": "banheiro-01", "file": "banheiro-01.svg", "alt": "Banheiro moderno e limpo", "category": "banheiros" },
-    { "id": "varanda-01", "file": "varanda-01.svg", "alt": "Varanda com vista para a piscina", "category": "varanda" },
+    { "id": "banheiro-01", "file": "banheiro.avif", "alt": "Banheiro moderno e limpo", "category": "banheiros" },
+    { "id": "varanda-01", "file": "varanda.avif", "alt": "Varanda com vista para a piscina", "category": "varanda" },
     { "id": "entorno-01", "file": "por-do-sol.jpeg", "alt": "Pôr do sol visto da região da casa", "category": "entorno", "featured": true },
     { "id": "entorno-02", "file": "entorno-02.svg", "alt": "Praia próxima à casa", "category": "entorno" }
   ]

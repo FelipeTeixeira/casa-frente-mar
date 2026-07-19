@@ -167,15 +167,15 @@ shot on 50mm lens, shallow depth of field
 | Prompt              | Arquivo em `src/assets/images/` |
 | -------------------- | -------------------------------- |
 | Fachada              | ⬜ pendente — enquanto isso a seção "A Casa" usa a foto do pôr do sol |
-| Piscina (principal)  | `piscina-01.svg` → `piscina-01.jpg` |
-| Piscina (deck)       | `piscina-02.svg` → `piscina-02.jpg` |
-| Área gourmet         | `area-gourmet-01.svg` → `area-gourmet-01.jpg` |
-| Cozinha              | `cozinha-01.svg` → `cozinha-01.jpg` |
+| Piscina (principal)  | ✅ já substituído por foto real (`hero.jpg`) |
+| Piscina (deck)       | ✅ já substituído por foto real (`piscina-02.avif`) |
+| Área gourmet         | ✅ já substituído por foto real (`area-gourmet.avif`) |
+| Cozinha              | ✅ já substituído por foto real (`cozinha-completa.avif`) |
 | Sala                 | `sala-01.svg` → `sala-01.jpg` |
 | Quarto de casal      | ✅ já substituído por foto real (`quarto-01.avif`) |
 | Quarto com beliches  | ✅ já substituído por foto real (`quarto-02.avif`) |
-| Banheiro             | `banheiro-01.svg` → `banheiro-01.jpg` |
-| Varanda              | `varanda-01.svg` → `varanda-01.jpg` |
+| Banheiro             | ✅ já substituído por foto real (`banheiro.avif`) |
+| Varanda              | ✅ já substituído por foto real (`varanda.avif`) |
 | Pôr do sol           | ✅ já substituído por foto real (`por-do-sol.jpeg`) |
 | Praia próxima        | `entorno-02.svg` → `entorno-02.jpg` |
 | Capa do site (Hero)  | ✅ já substituído por foto real (`hero.jpg`) |
